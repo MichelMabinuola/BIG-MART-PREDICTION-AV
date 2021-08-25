@@ -6,7 +6,7 @@ in different cities. XGBRegressor was utilized and got an accuracy of 79%.</p>
   * train_v9rqX0R.csv: for traing the data
   * test_AbJTz2l.csv: for testing the data
 
-##Tools
+## Language
   Python
 
 ## Technologies
