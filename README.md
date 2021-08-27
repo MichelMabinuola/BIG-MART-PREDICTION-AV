@@ -9,7 +9,7 @@ in different cities. XGBRegressor was utilized and got an accuracy of 79%.</p>
 ## Language
   Python
 
-## Technologies
+## Libraries
   * pandas
   * numpy
   * matplotlib and seaborn
